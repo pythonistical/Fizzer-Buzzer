@@ -1,4 +1,4 @@
-user = eval(input("Till which number?\t"))
+user = int(input("Till which number?\t"))
 stats_fizzbuzz = 0
 stats_fizz = 0
 stats_buzz = 0
